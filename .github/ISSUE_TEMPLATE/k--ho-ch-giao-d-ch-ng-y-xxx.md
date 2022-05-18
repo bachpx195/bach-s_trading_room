@@ -21,7 +21,7 @@ assignees: bachpx195
 * Trend keyword (Defi, web3)
 
 **Mục tiêu giao dịch**
-* Thăng xxx USDT, Hoà Vốn
+* Thắng xxx USDT/Hoà Vốn
 * Lỗ tối đa xxx USDT
 
 **Kế hoạch giao dịch**
