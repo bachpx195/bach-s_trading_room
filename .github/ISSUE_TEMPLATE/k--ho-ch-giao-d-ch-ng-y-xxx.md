@@ -20,6 +20,9 @@ assignees: bachpx195
 * Sự kiện nổi bật
 * Trend keyword (Defi, web3)
 
+**Mục tiêu giao dịch**
+* Thăng xxx USDT, Hoà Vốn
+* Lỗ tối đa xxx USDT
 
 **Kế hoạch giao dịch**
 Steps to reproduce the behavior:
