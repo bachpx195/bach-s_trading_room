@@ -1,9 +1,12 @@
+```
 Version 1:
   * Thêm nguyên tắc/chỉ dẫn
   * Sửa nguyên tắc/chỉ dẫn
      * Lý do?
+
 Version 2:
   * Thêm nguyên tắc không giao dịch vào ngày chủ nhật
+```
 
 # Nguyên tắc
 
