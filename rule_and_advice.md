@@ -2,6 +2,8 @@ Version 1:
   * Thêm nguyên tắc/chỉ dẫn
   * Sửa nguyên tắc/chỉ dẫn
      * Lý do?
+Version 2:
+  * Thêm nguyên tắc không giao dịch vào ngày chủ nhật
 
 # Nguyên tắc
 
@@ -10,6 +12,9 @@ Version 1:
 
 ### No2: Không đặt lệnh vào lúc đóng nến
 * Không đặt lệnh vào lúc đóng nến 1h hoặc 15m mà nên đợi đặt lệnh ở cây nến 15m tiếp theo
+
+### No3: Không giao dịch vào tối ngày chủ nhật
+* Không giao dịch vào tối ngày chủ nhật.
 
 # Chỉ dẫn
 
