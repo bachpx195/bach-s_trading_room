@@ -8,6 +8,11 @@ Version: Ver2
 Nội dung : Thêm sơ đồ của project
 Ngày update : 11/06/2022
 assignees : bachpx195
+
+Version: Ver3
+Nội dung : Thêm quy trình
+Ngày update : 11/06/2022
+assignees : bachpx195
 ---
 
 # Phòng giao dịch của Bách
@@ -26,3 +31,28 @@ assignees : bachpx195
 └── <a href="https://github.com/bachpx195/bach-s_trading_room/wiki">Wiki</a>  
 </pre>
 
+## Quy trình
+
+1. Mỗi tháng tạo 1 Tag release từ đầu tháng đến cuối tháng.
+  * Cần list ra những điều sau:
+    - Tổng quan thị trường.
+    - Kế hoạch giao dịch trong tháng là thế nào.
+    - Mục tiêu lãi bao nhiêu.
+  * Kết thúc mỗi tháng sẽ viết tổng kết:
+    - Tổng kết lãi lỗ.
+    - Phân tích giao dịch trong tháng:
+      + Ưu điểm cần phát huy
+      + Nhược điểm cần sửa
+      + ...
+    - Lưu vào folder tổng kết
+  * Tổng quan giao dịch trong tháng sẽ thể hiện ở Project
+2. Mỗi tuần giao dịch sẽ tạo 1 Milestone từ đầu tuần đến cuối tuần
+  * Cần list ra những điều sau:
+    - Tổng quan thị trường.
+    - Kế hoạch giao dịch trong tuần là thế nào.
+  * Kết thúc mỗi tuần sẽ viết tổng kết:
+    - Tổng kết lãi lỗ.
+    - Phân tích giao dịch trong tháng:
+      + Ưu điểm cần phát huy
+      + Nhược điểm cần sửa
+      + ...
