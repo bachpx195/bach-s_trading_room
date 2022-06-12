@@ -6,6 +6,7 @@ Version 1:
 
 Version 2:
   * Thêm nguyên tắc không giao dịch vào ngày chủ nhật
+  * Thêm chỉ dẫn về đòn bẩy
 ```
 
 # Nguyên tắc
@@ -22,4 +23,12 @@ Version 2:
 # Chỉ dẫn
 
 ### No1: Quan sát cặp xxx/BTC
-* Không nên mua khi xxx/BTC có dấu hiệu giảm và ngược lại*
+* Không nên mua khi xxx/BTC có dấu hiệu giảm và ngược lại
+
+
+### No2: Quy tắc đòn bẩy.
+* Lệnh thua đầu tiên -> giữ nguyên đòn bẩy.
+* Lệnh thua liên tiếp  thứ hai -> giữ nguyên đòn bẩy cho đến khi hòa vốn.
+* Lệnh thua liên tiếp thứ ba ->  x2 nguyên đòn bẩy cho đến khi hòa vốn.
+* Lệnh thua liên tiếp thứ tư ->  giữ nguyên đòn bẩy cho đến khi hòa vốn.
+* Lệnh thua liên tiếp thứ năm ->  max đòn bẩy cho đến khi hòa vốn.
