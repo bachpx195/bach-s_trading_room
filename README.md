@@ -33,7 +33,7 @@ assignees : bachpx195
 
 ## Quy trình
 
-1. Mỗi tháng tạo 1 Tag release từ đầu tháng đến cuối tháng.
+* Mỗi tháng tạo 1 Tag release từ đầu tháng đến cuối tháng:
   * Cần list ra những điều sau:
     - Tổng quan thị trường.
     - Kế hoạch giao dịch trong tháng là thế nào.
@@ -46,7 +46,7 @@ assignees : bachpx195
       + ...
     - Lưu vào folder tổng kết
   * Tổng quan giao dịch trong tháng sẽ thể hiện ở Project
-2. Mỗi tuần giao dịch sẽ tạo 1 Milestone từ đầu tuần đến cuối tuần
+* Mỗi tuần giao dịch sẽ tạo 1 Milestone từ đầu tuần đến cuối tuần
   * Cần list ra những điều sau:
     - Tổng quan thị trường.
     - Kế hoạch giao dịch trong tuần là thế nào.
@@ -56,3 +56,9 @@ assignees : bachpx195
       + Ưu điểm cần phát huy
       + Nhược điểm cần sửa
       + ...
+    - Tổng kết vào mỗi cuối tuần
+ * Mỗi ngày
+   * Viết plan kế hoạch giao dịch
+   * Update biến động của thị trường
+   * Tổng kết vào cuối ngày.
+ 
