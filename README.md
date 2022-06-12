@@ -23,6 +23,7 @@ assignees : bachpx195
 ├── <a href="https://github.com/bachpx195/bach-s_trading_room/issues?q=is%3Aopen+is%3Aissue">Kế hoạch giao dịch</a>  
 │   └── <a href="#">Master Data</a>
 │       └── <a href="https://github.com/bachpx195/bach-s_trading_room/edit/main/.github/ISSUE_TEMPLATE/template_plan_v1.md">Template</a> 
+│       └── <a href="https://github.com/settings/replies">Template Reply</a> 
 │       └── <a href="https://github.com/bachpx195/bach-s_trading_room/labels">Label</a>
 │       └── <a href="https://github.com/bachpx195/bach-s_trading_room/tags">Tag</a>
 │       └── <a href="https://github.com/bachpx195/bach-s_trading_room/milestones">Milestone</a>
