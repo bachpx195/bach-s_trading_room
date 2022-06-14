@@ -8,10 +8,16 @@ assignees: bachpx195
 ---
 
 **Tổng quan thị trường**
+* Tài sản an toàn:
+  - [Gold](https://www.tradingview.com/chart/BeOt7Jqk/?symbol=TVC%3AGOLD) ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
+  - [Dola index](https://www.tradingview.com/chart/BeOt7Jqk/?symbol=TVC%3AGOLD) ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
+* Tài sản rủi ro
+  - [SP500](https://www.tradingview.com/chart/BeOt7Jqk/?symbol=TVC%3AGOLD) ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
 * Xu hướng chính: (Lạc quan, bi quan, trung tính)
-* Xu hướng BTC (Tăng/Giảm/Sideway)
-   * BTC.D
-   * Khối lượng giao dịch ngày hôm trước
+   * [Tổng vốn hóa thị trường](https://coinmarketcap.com/charts/) ? Tăng/Giảm/Sideway
+* Xu hướng BTC ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
+   * [BTC.D](https://www.tradingview.com/chart/BeOt7Jqk/?symbol=CRYPTOCAP%3ABTC.D) ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
+   * Khối lượng giao dịch ngày hôm trước ? Tăng/Giảm/Sideway
    * Miêu tả.
 * Xu hướng ALT (Tăng/Giảm/Sideway)
    * Alt Top
