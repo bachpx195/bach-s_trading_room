@@ -22,7 +22,7 @@ assignees: bachpx195
 * Xu hướng ALT (Tăng/Giảm/Sideway)
    * Alt Top
    * Alt Rác
-* Xu hướng ALT so với BTC
+* Xu hướng ALT so với BTC ? Cùng tăng/Cùng giảm/Btc giảm nhưng ALT tăng/BTC tăng nhưng ALT giảm/ BTC sideway nhưng ALT giảm/ BTC sideway nhưng ALT tăng
 * Sự kiện nổi bật
 * Trend keyword (Defi, web3)
 
