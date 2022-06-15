@@ -31,7 +31,7 @@ assignees : bachpx195
 │   └── <a href="https://github.com/bachpx195/bach-s_trading_room/blob/main/rule_and_advice.md">Quy tắc và chỉ dẫn</a>
 └── <a href="https://github.com/bachpx195/bach-s_trading_room/wiki">Wiki</a>  
 │   └── <a href="https://github.com/bachpx195/bach-s_trading_room/wiki/Trang-tin-t%E1%BB%A9c">Trang tin tức</a>
-└──--------------------------------------------------------------------------------------------------------------
+└──--------------------------------------------------------------------
 </pre>
 
 ## Quy trình
