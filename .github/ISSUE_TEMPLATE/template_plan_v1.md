@@ -33,10 +33,11 @@ assignees: bachpx195
 **Kế hoạch giao dịch**
 * Tài sản cần quan sat:
 
-1. BTC
-- Điểm lưu ý
+  1. BTC
+    - Điểm lưu ý
 
-2. HOGE
-- Điểm lưu ý
+  2. HOGE
+    - Điểm lưu ý
 
 * Kế hoạch giao dịch trong ngày
+  - Chờ long/ Chờ short khi?
