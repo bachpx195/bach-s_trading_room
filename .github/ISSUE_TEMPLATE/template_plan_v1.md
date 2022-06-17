@@ -7,7 +7,7 @@ assignees: bachpx195
 
 ---
 
-**Tổng quan thị trường**
+## **Tổng quan thị trường**
 * Tài sản an toàn:
   - [Gold](https://www.tradingview.com/chart/BeOt7Jqk/?symbol=TVC%3AGOLD) ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
   - [Dola index](https://www.tradingview.com/chart/BeOt7Jqk/?symbol=TVC%3ADXY) ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
@@ -28,11 +28,11 @@ assignees: bachpx195
 * Sự kiện nổi bật
 * Trend keyword (Defi, web3)
 
-**Mục tiêu giao dịch**
+## **Mục tiêu giao dịch**
 * Thắng xxx USDT/Hoà Vốn
 * Lỗ tối đa xxx USDT
 
-**Kế hoạch giao dịch**
+## **Kế hoạch giao dịch**
 * Tài sản cần quan sat:
 
   1. BTC
