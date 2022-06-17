@@ -16,7 +16,9 @@ assignees: bachpx195
 * Xu hướng chính: (Lạc quan, bi quan, trung tính)
    * [Tổng vốn hóa thị trường](https://coinmarketcap.com/charts/) ? Tăng/Giảm/Sideway
 * Xu hướng BTC ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
+   * Trendline (Dựa vào milestone và release tag)? Tăng/Giảm/SideWay
    * [BTC.D](https://www.tradingview.com/chart/BeOt7Jqk/?symbol=CRYPTOCAP%3ABTC.D) ? Tăng mạnh/Tăng/Đi ngang/Giảm/Giảm mạnh
+   * Biên độ giao động trong 14 ngày? Tăng
    * Khối lượng giao dịch ngày hôm trước ? Tăng/Giảm/Sideway
    * Miêu tả.
 * Xu hướng ALT (Tăng/Giảm/Sideway)
