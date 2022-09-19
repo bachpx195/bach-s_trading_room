@@ -7,6 +7,9 @@ Version 1:
 Version 2:
   * Thêm nguyên tắc không giao dịch vào ngày chủ nhật
   * Thêm chỉ dẫn về đòn bẩy
+  
+Version 3:
+  * Thêm nguyên tắc không giao dịch, chốt lời, cắt lỗ vào những mốc số tròn
 ```
 
 # Nguyên tắc
@@ -19,6 +22,8 @@ Version 2:
 
 ### No3: Không giao dịch vào tối ngày chủ nhật
 * Không giao dịch vào tối ngày chủ nhật.
+
+### No4: Không giao dịch vào các mốc số tròn
 
 # Chỉ dẫn
 
