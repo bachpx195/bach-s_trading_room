@@ -35,5 +35,5 @@ Version 3:
 * Lệnh thua đầu tiên -> giữ nguyên đòn bẩy.
 * Lệnh thua liên tiếp  thứ hai -> giữ nguyên đòn bẩy cho đến khi hòa vốn.
 * Lệnh thua liên tiếp thứ ba ->  x2 nguyên đòn bẩy cho đến khi hòa vốn.
-* Lệnh thua liên tiếp thứ tư ->  giữ nguyên đòn bẩy cho đến khi hòa vốn.
+* Lệnh thua liên tiếp thứ tư ->  x3 nguyên đòn bẩy cho đến khi hòa vốn.
 * Lệnh thua liên tiếp thứ năm ->  max đòn bẩy cho đến khi hòa vốn.
