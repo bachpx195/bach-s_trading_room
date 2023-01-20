@@ -37,12 +37,12 @@ Version 4:
 
 ### No2: Khi giá mở cửa ngày giảm  mạnh trong khoảng 7h thì cân nhắc đặt lệnh mua vào khoảng 9h khi giá quay về test đáy lần 1.
 
-### No3: Nguyên tắc đòn bẩy.
+### No3: Chỉ dẫn đòn bẩy.
 * Lệnh thua đầu tiên -> giữ nguyên đòn bẩy.
 * Lệnh thua liên tiếp  thứ hai -> giữ nguyên đòn bẩy cho đến khi hòa vốn.
 * Lệnh thua liên tiếp thứ ba ->  x2 nguyên đòn bẩy cho đến khi hòa vốn.
 * Lệnh thua liên tiếp thứ tư ->  x3 nguyên đòn bẩy cho đến khi hòa vốn.
 * Lệnh thua liên tiếp thứ năm ->  max đòn bẩy cho đến khi hòa vốn.
 
-### No4: Nguyên tắc quản lý vốn.
+### No4: Chỉ dẫn quản lý vốn.
 * Khi một lệnh thua thì cắt lệnh và đặt lại lệnh sao cho tổng vốn với đòn bẩy không đổi.
