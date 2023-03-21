@@ -13,6 +13,9 @@ Version 3:
   
 Version 4:
   * Thêm nguyên tắc giao dịch vào khoảng thời mở đầu ngày
+  
+Version 5:
+  * Thêm chỉ dẫn giao dịch vào chủ nhật và thứ 2
 ```
 
 RC: Real combat
@@ -48,4 +51,5 @@ FUND: fund management
 ### FUND4: Chỉ dẫn quản lý vốn.
 * Khi một lệnh thua thì cắt lệnh và đặt lại lệnh sao cho tổng vốn với đòn bẩy không đổi.
 
-### No5
+### RC5: Cắt lỗ lệnh bán vào cuối ngày chủ nhật và cắt lỗ lệnh mua vào cuối ngày thứ 2
+* Xu hướng tăng khi kết thúc 1 tuần giao dịch và xu hướng giảm vào ngày thứ 2
