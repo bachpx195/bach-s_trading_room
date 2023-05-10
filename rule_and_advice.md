@@ -16,6 +16,9 @@ Version 4:
   
 Version 5:
   * Thêm chỉ dẫn giao dịch vào chủ nhật và thứ 2
+  
+ Version 6:
+  * Thêm chỉ dẫn đặt TP trước khi ngủ
 ```
 
 RC: Real combat
@@ -53,3 +56,6 @@ FUND: fund management
 
 ### RC5: Cắt lỗ lệnh bán vào cuối ngày chủ nhật và cắt lỗ lệnh mua vào cuối ngày thứ 2
 * Xu hướng tăng khi kết thúc 1 tuần giao dịch và xu hướng giảm vào ngày thứ 2
+
+### RC6: Đặt lệnh chốt lời (hoặc hoà vốn) trước khi đi ngủ
+* Đặt lệnh chốt lời (~1%) hoặc dừng lệnh hoà vốn trước khi đi ngủ.
