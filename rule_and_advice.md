@@ -17,8 +17,11 @@ Version 4:
 Version 5:
   * Thêm chỉ dẫn giao dịch vào chủ nhật và thứ 2
   
- Version 6:
+Version 6:
   * Thêm chỉ dẫn đặt TP trước khi ngủ
+
+Version 7:
+  * Thêm nguyên tắc cắt lệnh chạm entry khi giá đi sai dự đoán
 ```
 
 RC: Real combat
@@ -35,6 +38,9 @@ FUND: fund management
 
 ### RC2: Không đặt lệnh vào lúc đóng nến
 * Không đặt lệnh vào lúc đóng nến 1h hoặc 15m mà nên đợi đặt lệnh ở cây nến 15m tiếp theo
+
+### RC3: Cắt lệnh
+* Cắt lệnh khi giá chạm entry nếu giá đi sai dự đoán ~2% và mất 12h để giá quay lại entry
 
 # Chỉ dẫn
 
