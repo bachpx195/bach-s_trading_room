@@ -55,3 +55,7 @@ Hãy thả con thuyền của bạn chảy theo dòng nước, cho cánh buồm 
 Bạn chỉ nên rời thuyền khi có cơn bão lớn bất ngờ mà bạn không thể biết trước, hoặc chính con thuyền của bạn có vấn đề.
 Lúc đó nếu bạn không nhanh chóng lên bờ thì đúng là bạn sẽ không thể bình yên. 
 ```
+
+```
+Trong một thị trường có biên độ dao động hẹp, tức là giá không có xu hướng mà chỉ di chuyển trong một vùng phạm vi, sẽ là vô nghĩa khi cố gắng dự đoán chuyển động lớn tiếp theo sẽ diễn ra theo hướng nào. Điều cần làm là theo dõi thị trường, đọc dải băng (đồ thị giá) và chờ đợi cho đến khi giá phá vỡ theo một trong hai hướng.
+```
