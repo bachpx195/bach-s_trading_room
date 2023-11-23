@@ -10,3 +10,6 @@
 
 => Sau khi thắng rút tiền ra cần reset lại tâm lý và bỏ ngay suy nghĩ thắng để trả nợ
 
+### No3: Tâm lý chỉ short 
+* Luôn nghĩ tới 2 phương án khi giao dịch.
+
