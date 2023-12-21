@@ -21,12 +21,17 @@ assignees: bachpx195
    * Biên độ giao động trong 14 ngày? Tăng
    * Khối lượng giao dịch ngày hôm trước ? Tăng/Giảm/Sideway
    * Miêu tả.
-* Xu hướng ALT (Tăng/Giảm/Sideway)
+* Xu hướng ALT https://cryptobubbles.net/ (Tăng/Giảm/Sideway):
+  <!---
+    QUan sát bubble xu hướng alt top và alt coin rac
+    Nếu tất cả đều có xu hương tăng mạnh thì có kế hoạch thoát lệnh short
+  -->
    * Alt Top
    * Alt Rác
 * Xu hướng ALT so với BTC ? Cùng tăng/Cùng giảm/Btc giảm nhưng ALT tăng/BTC tăng nhưng ALT giảm/ BTC sideway nhưng ALT giảm/ BTC sideway nhưng ALT tăng
 * Sự kiện nổi bật
 * Trend keyword (Defi, web3)
+* Kiểm tra Tether có in thêm USDT không
 
 ## **Mục tiêu giao dịch**
 * Thắng xxx USDT/Hoà Vốn
